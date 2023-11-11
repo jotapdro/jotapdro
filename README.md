@@ -1,3 +1,3 @@
-Oi! Eu sou o João Pedro mais conhecido como Jota
+Oi! Eu sou o João Pedro mais conhecido como Jota.
  
-Eu estudo Ciências da Computação na Universidade Federal de Sergipe(UFS)
+Eu estudo Ciência da Computação na Universidade Federal de Sergipe(UFS) e sou estagiário no Tribunal de Justiça de Sergipe.
